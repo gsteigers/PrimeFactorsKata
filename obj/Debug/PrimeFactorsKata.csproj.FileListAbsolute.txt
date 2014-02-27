@@ -1,0 +1,6 @@
+C:\Users\Garren\Documents\Visual Studio 2012\Projects\PrimeFactorsKata\bin\Debug\PrimeFactorsKata.exe.config
+C:\Users\Garren\Documents\Visual Studio 2012\Projects\PrimeFactorsKata\bin\Debug\PrimeFactorsKata.exe
+C:\Users\Garren\Documents\Visual Studio 2012\Projects\PrimeFactorsKata\bin\Debug\PrimeFactorsKata.pdb
+C:\Users\Garren\Documents\Visual Studio 2012\Projects\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.csprojResolveAssemblyReference.cache
+C:\Users\Garren\Documents\Visual Studio 2012\Projects\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.exe
+C:\Users\Garren\Documents\Visual Studio 2012\Projects\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.pdb
